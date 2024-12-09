@@ -1,6 +1,7 @@
 ⚠️This is a personal reupload of a college project⚠️
 # COMP2003HK Computing Group Project (22/AY/AUNS/M) - Group 9
 # Natural Science Survey System
+![alt text](https://github.com/HansKwok2050/HKBH/blob/main/Project%20Docs/poster.png)
 ## Group 9 Members
 | Name  | Leadership Role |
 | ----------------- | ----------------- |
